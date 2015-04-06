@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutexDemo", "MutexDemo\Mute
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemaphoreSlimDemo", "SemaphoreSlimDemo\SemaphoreSlimDemo.csproj", "{342E2C2C-8E83-427D-9C37-D3A09A2362C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoResetEventDemo", "AutoResetEventDemo\AutoResetEventDemo.csproj", "{7878B594-2F80-4EFC-99D3-EE45F7287255}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{342E2C2C-8E83-427D-9C37-D3A09A2362C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{342E2C2C-8E83-427D-9C37-D3A09A2362C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{342E2C2C-8E83-427D-9C37-D3A09A2362C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7878B594-2F80-4EFC-99D3-EE45F7287255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7878B594-2F80-4EFC-99D3-EE45F7287255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7878B594-2F80-4EFC-99D3-EE45F7287255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7878B594-2F80-4EFC-99D3-EE45F7287255}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
