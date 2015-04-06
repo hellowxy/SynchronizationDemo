@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManualResetEventSlimDemo", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountDownEventDemo", "CountDownEventDemo\CountDownEventDemo.csproj", "{123EDDC4-F729-47B0-8173-CCC06AD6AEAB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarrierDemo", "BarrierDemo\BarrierDemo.csproj", "{93A4A78A-4050-47C6-BE6E-1DF33FB3AEDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{123EDDC4-F729-47B0-8173-CCC06AD6AEAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{123EDDC4-F729-47B0-8173-CCC06AD6AEAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{123EDDC4-F729-47B0-8173-CCC06AD6AEAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93A4A78A-4050-47C6-BE6E-1DF33FB3AEDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93A4A78A-4050-47C6-BE6E-1DF33FB3AEDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93A4A78A-4050-47C6-BE6E-1DF33FB3AEDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93A4A78A-4050-47C6-BE6E-1DF33FB3AEDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
