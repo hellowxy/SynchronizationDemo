@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemaphoreSlimDemo", "Semaph
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoResetEventDemo", "AutoResetEventDemo\AutoResetEventDemo.csproj", "{7878B594-2F80-4EFC-99D3-EE45F7287255}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManualResetEventSlimDemo", "ManualResetEventSlimDemo\ManualResetEventSlimDemo.csproj", "{FE7F6178-D6A5-4ABB-8B51-32926915C082}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountDownEventDemo", "CountDownEventDemo\CountDownEventDemo.csproj", "{123EDDC4-F729-47B0-8173-CCC06AD6AEAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{7878B594-2F80-4EFC-99D3-EE45F7287255}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7878B594-2F80-4EFC-99D3-EE45F7287255}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7878B594-2F80-4EFC-99D3-EE45F7287255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE7F6178-D6A5-4ABB-8B51-32926915C082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE7F6178-D6A5-4ABB-8B51-32926915C082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE7F6178-D6A5-4ABB-8B51-32926915C082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE7F6178-D6A5-4ABB-8B51-32926915C082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{123EDDC4-F729-47B0-8173-CCC06AD6AEAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{123EDDC4-F729-47B0-8173-CCC06AD6AEAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{123EDDC4-F729-47B0-8173-CCC06AD6AEAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{123EDDC4-F729-47B0-8173-CCC06AD6AEAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
