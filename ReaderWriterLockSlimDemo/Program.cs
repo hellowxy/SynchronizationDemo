@@ -7,7 +7,7 @@
  * description：
  * ReaderWriterLockSlim represents a lock that is used to manage access to a 
  * resource, allowing multiple threads for reading or exclusive access for writing.
- * It has tow kinds of locks: a read lock that allows multiple threads reading and a 
+ * It has two kinds of locks: a read lock that allows multiple threads reading and a 
  * write lock that blocks every operation from other threads until this write lock
  * is released. There is also an interesting scenario when we obtain a read lock, read
  * some data from the collection, and depending on that data, decide to obtain a write
