@@ -13,6 +13,7 @@ namespace LockAndInterlockedDemo
 
         public override void Increment()
         {
+            //atomic operations
             Interlocked.Increment(ref _count);
         }
 
