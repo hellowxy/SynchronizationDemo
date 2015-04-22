@@ -10,6 +10,7 @@ namespace MutexDemo
     class Program
     {
         //Mutex对象可用于在多个进程之间进行同步
+        //Mutex is a primitive synchronization that grants exclusive access of the shared resource to only one thread
         private const string MUTEX_NAME = "MYMUTEX";
         static void Main(string[] args)
         {
